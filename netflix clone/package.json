@@ -1,0 +1,25 @@
+{
+  "name": "netflix-clone",
+  "version": "1.0.0",
+  "description": "a netflix front page clone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amanshukla9606/netflix-clone.git"
+  },
+  "keywords": [
+    "aman"
+  ],
+  "author": "amans",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amanshukla9606/netflix-clone/issues"
+  },
+  "homepage": "https://github.com/amanshukla9606/netflix-clone#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
